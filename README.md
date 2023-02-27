@@ -1,8 +1,6 @@
 # Selenium_Tasks
-selenium tasks using Java , Maven , TestNG and POM
-
-#An automation task is needed to simulate the search for a lesson on nagwa website then opening the lesson worksheet to count the number of questions in this worksheet.
-Scenario Steps:
+An automation task is needed to simulate the search for a lesson on nagwa website then opening the lesson worksheet to count the number of questions in this worksheet.
+# Scenario Steps:
 1. Open Nagwa website.
 2. Choose a language to open the home page.
 3. Use the search icon to start searching on Nagwa lessons.
@@ -11,3 +9,10 @@ Scenario Steps:
 6. Click on 2nd lesson in the search results to open its home page.
 7. Go to worksheet section then click preview button.
 8. Worksheet home page will open then count number of questions displayed on it and print the count.
+
+# Tech Stach :
+- Java
+- Maven
+- TestNG
+- POM
+- DDT
