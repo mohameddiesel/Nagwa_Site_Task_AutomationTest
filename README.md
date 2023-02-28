@@ -10,7 +10,7 @@ An automation task is needed to simulate the search for a lesson on nagwa websit
 7. Go to worksheet section then click preview button.
 8. Worksheet home page will open then count number of questions displayed on it and print the count.
 
-# Tech Stach :
+# Tech Stack :
 - Java
 - Maven
 - TestNG
